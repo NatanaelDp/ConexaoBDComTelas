@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33213.308
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConexaoBDComTelas", "ConexaoBDComTelas\ConexaoBDComTelas.csproj", "{D3456150-2B68-4D47-BF10-26A3CF2FD99F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D3456150-2B68-4D47-BF10-26A3CF2FD99F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D3456150-2B68-4D47-BF10-26A3CF2FD99F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D3456150-2B68-4D47-BF10-26A3CF2FD99F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D3456150-2B68-4D47-BF10-26A3CF2FD99F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {855B3223-8766-443D-B7A9-FC2BBA9D31C9}
+	EndGlobalSection
+EndGlobal
